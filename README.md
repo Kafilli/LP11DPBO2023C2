@@ -13,6 +13,11 @@ Program ini memiliki 1 tabel, yaitu pasien. Tabel ini memiliki 8 atribut, yaitu 
 3. Jika user ingin menghapus data pasien, user dapat menekan tombol delete di kolom action pada tabel pasien.
 4. Jika user ingin memperbaharui data pasien, user dapat menekan tombol update di kolom action pada tabel pasien. Kemudian user dapat mengubah form yang diperlukan.
 
+## Desain
+
+![image](https://github.com/Kafilli/LP11DPBO2023C2/assets/100756191/38a87471-898f-46f2-b470-92ab3256db15)
+
+
 ## Dokumentasi
 1. Halaman Home
 
